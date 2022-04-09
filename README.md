@@ -57,7 +57,7 @@ default.payment.next.month: Default payment (1=yes, 0=no)
 
 Conclusion
 
-![Screenshot 2022-04-08 204250](https://user-images.githubusercontent.com/98027899/162555657-cb3fb0b5-7bc2-4325-949a-6d3b4b870050.png)
+![Screenshot 2022-04-09 142640](https://user-images.githubusercontent.com/98027899/162564557-6038c20b-7370-450e-8afd-043ae529e22f.png)
 
 
 XGBoost and Random Forest classifier both models have high recall score of 80% so we can deploy any one of them.
