@@ -9,9 +9,10 @@
 ![image](https://user-images.githubusercontent.com/98027899/173230056-1ecb80a7-291a-4acb-88cd-dff683812899.png)
 
 ### Project Files :
-* Credi Card Default Prediction.ipynb - This file includes Features description, exploratory data Analysis, feature engineering, feature scaling and implemented algorithms.
+* Credit Card Default Prediction.ipynb - This file includes Features description, exploratory data Analysis, feature engineering, feature scaling and implemented algorithms.
 * Project PPT - This is a power point presentation file of a project. It includes various visualaized plots of EDA using Seaborn and Matplotlib. The result chart of various implemented algorithms.
 * Project Summary - A brief summary of objectives and methodology of the project.
+
 ![image](https://user-images.githubusercontent.com/98027899/173230056-1ecb80a7-291a-4acb-88cd-dff683812899.png)
 
 ### Project Details :
