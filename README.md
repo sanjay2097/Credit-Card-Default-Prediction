@@ -8,6 +8,12 @@
 
 ![image](https://user-images.githubusercontent.com/98027899/173230056-1ecb80a7-291a-4acb-88cd-dff683812899.png)
 
+### Project Files :
+* Credi Card Default Prediction.ipynb - This file includes Features description, exploratory data Analysis, feature engineering, feature scaling and implemented algorithms.
+* Project PPT - This is a power point presentation file of a project. It includes various visualaized plots of EDA using Seaborn and Matplotlib. The result chart of various implemented algorithms.
+* Project Summary - A brief summary of objectives and methodology of the project.
+![image](https://user-images.githubusercontent.com/98027899/173230056-1ecb80a7-291a-4acb-88cd-dff683812899.png)
+
 ### Project Details :
 
 ### Distibution of categorical features
@@ -32,6 +38,16 @@
 
 ![image](https://user-images.githubusercontent.com/98027899/173230056-1ecb80a7-291a-4acb-88cd-dff683812899.png)
 
+### Model References :
+* Logistic Regression: https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+* Random Forest: https://towardsdatascience.com/understanding-random-forest-58381e0602d2
+* KNN: https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
+* SVM: https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+* Xgboost: https://www.nvidia.com/en-us/glossary/data-science/xgboost/
+* Cross Validation: https://analyticsindiamag.com/hands-on-tutorial-on-performance-measure-of-stratified-k-fold-cross-validation/
+
+![image](https://user-images.githubusercontent.com/98027899/173230056-1ecb80a7-291a-4acb-88cd-dff683812899.png)
+
 ### Conclusion :
 
 ### We developed an ensemble binary classification model using the XGBoost and Random Forest algorithm to predict whether clients will default based on past finances and demographic factors. Hyperparameter tuned Random Forest gives us the highest Recall score of 81% and AUC-ROC score of 87%.
@@ -40,6 +56,11 @@
 
 ### Scope :
 ### Default prediction models can be successfully employed in banks for early prediction whether a bank client is going to default on his payments and this would conserve bank resources namely time and assets. We can use the insights from this project to gauge the financial health of our clients and decide how much credit we can extend to them. This will help to avoid the case of bad debts which will save banks unexpected losses.
+
+![image](https://user-images.githubusercontent.com/98027899/173230056-1ecb80a7-291a-4acb-88cd-dff683812899.png)
+
+### Credits:
+* Sanjay Yadav | Data Scientist
 
 ![image](https://user-images.githubusercontent.com/98027899/173230056-1ecb80a7-291a-4acb-88cd-dff683812899.png)
 
